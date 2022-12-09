@@ -2,24 +2,23 @@
 
 Created with CodeSandbox
 
-<div style="text-align: right;"><img src="https://camo.githubusercontent.com/5ebc638bb3e5113c5a87a5462197c35f40f7185ea9940e7723846b6e403f8a6b/68747470733a2f2f6372656174652d72656163742d6170702e6465762f696d672f6c6f676f2e737667" width="100" alt="My Image" /></div>
+<h2>Prerequisites</h2>
+<ul>
+<li>Open a terminal(Windows Command Prompt or PowerShell).</li>
+<li>Create a new project folder: mkdir ReactProjects and enter that directory:<span> cd ReactProjects.</span></li>
+<li>Install React using create-react-app, a tool that installs all of the dependencies to build and run a full React.js application:</li>
 
-<img src="https://cdn.jsdelivr.net/gh/facebook/create-react-app@27b42ac7efa018f2541153ab30d63180f5fa39e0/screencast.svg">
-my-app<br>
-├── README.md <br>
-├── node_modules <br>
-├── package.json <br>
-├── .gitignore <br>
-├── public <br>
-│ ├── favicon.ico <br>
-│ ├── index.html <br>
-│ └── manifest.json <br>
-└── src <br>
-├── App.css <br>
-├── App.js <br>
-├── App.test.js <br>
-├── index.css <br>
-├── index.js <br>
-├── logo.svg <br>
-└── serviceWorker.js <br>
-└── setupTests.js <br>
+</ul
+
+<span> Download the node
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20211013203755/node1.png">
+<br>
+
+<span> Step 2:</span><p>Open command prompt to check whether it is completely installed or not type the command –></p>
+
+<p> <li>node -v  <br>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20211013203241/cmd1.jpg">
+<br>
+<span>Step 3:</span> <h2>Now in the terminal run the below command:<br>
+<span> <li>npm install -g create-react-app  <br>
